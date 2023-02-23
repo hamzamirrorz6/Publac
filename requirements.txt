@@ -25,6 +25,7 @@ telegraph
 tenacity
 tgCrypto
 xattr
+pyrate_limiter
 git+https://github.com/rajanvibes/amriac2mp
 git+https://github.com/rajanvibes/qmbittomrrent-ampi
 git+https://github.com/rajanvibes/ymt-dmlp
